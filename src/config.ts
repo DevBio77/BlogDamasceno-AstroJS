@@ -1,9 +1,9 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
+  website: "https://blog-damasceno.netlify.app/", // replace this with your deployed domain
   author: "Fabrício M. Damasceno",
-  desc: "Blog do Damasceno é um Blog sobre Desenvolvimento onde eu compartilho a minha experiência como Desenvolvedor Full Stack com mais de 15 anos de experiência.",
+  desc: "Blog do Damasceno é um Blog sobre Desenvolvimento onde eu compartilho a minha experiência como Desenvolvedor Full Stack com mais de 15 anos de experiência. DotNet, PHP, Javascript, NodeJS, React, DevOps, Full Stack",
   title: "Blog do Damasceno",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
