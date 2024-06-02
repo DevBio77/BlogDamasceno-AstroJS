@@ -155,4 +155,4 @@ Licensed under the MIT License, Copyright © 2023
 
 ---
 
-Made with 🤍 by [Sat Naing](https://satnaing.dev) 👨🏻‍💻 and [contributors](https://github.com/fabriciodamasceno/graphs/contributors).
+Made with 🤍 by [Fabrício M. Damasceno](https://satnaing.dev) 👨🏻‍💻 and [contributors](https://github.com/fabriciodamasceno/graphs/contributors).

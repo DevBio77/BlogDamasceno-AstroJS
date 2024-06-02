@@ -1,15 +1,17 @@
 ---
 author: Fabrício M. Damasceno
-pubDatetime: 2022-09-23T15:22:00Z
-modDatetime: 2023-12-21T09:12:47.400Z
-title: Adicionando novas postagens no Blog
-slug: adding-new-posts-in-astropaper-theme
+pubDatetime: 2024-06-02T21:00:00Z
+modDatetime: 2024-06-02T21:00:00Z
+title: Ambiente de Desenvolvimento com WSL2
+slug: ambiente-de-desenvolvimento-wsl2
 featured: true
 draft: false
 tags:
-  - docs
+  - WSL2
+  - windows subsistema linux
+  - ambiente de desenvolvimento no windows
 description:
-  Dev .Net, PHP, Javascript.
+  Como criar um bom Ambiente de Desenvolvimento com WSL2 e quais as suas possibilidades.
 ---
 
 Here are some rules/recommendations, tips & ticks for creating new posts in AstroPaper blog theme.
