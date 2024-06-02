@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "Fabrício M. Damasceno",
   desc: "Blog do Damasceno é um Blog sobre Desenvolvimento onde eu compartilho a minha experiência como Desenvolvedor Full Stack com mais de 15 anos de experiência. DotNet, PHP, Javascript, NodeJS, React, DevOps, Full Stack",
   title: "Blog do Damasceno",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "clement-h.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
